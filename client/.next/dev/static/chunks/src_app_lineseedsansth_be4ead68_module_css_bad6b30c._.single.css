@@ -1,0 +1,51 @@
+/* [project]/src/app/lineseedsansth_be4ead68.module.css [app-client] (css) */
+@font-face {
+  font-family: lineSeedSansTH;
+  src: url("../media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lineSeedSansTH;
+  src: url("../media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lineSeedSansTH;
+  src: url("../media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lineSeedSansTH;
+  src: url("../media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: lineSeedSansTH Fallback;
+  src: local(Arial);
+  ascent-override: 107.72%;
+  descent-override: 41.43%;
+  line-gap-override: 0.0%;
+  size-adjust: 106.2%;
+}
+
+.lineseedsansth_be4ead68-module__rHucVa__className {
+  font-family: lineSeedSansTH, lineSeedSansTH Fallback;
+}
+
+.lineseedsansth_be4ead68-module__rHucVa__variable {
+  --font-line-seed: "lineSeedSansTH", "lineSeedSansTH Fallback";
+}
+
+/*# sourceMappingURL=src_app_lineseedsansth_be4ead68_module_css_bad6b30c._.single.css.map*/

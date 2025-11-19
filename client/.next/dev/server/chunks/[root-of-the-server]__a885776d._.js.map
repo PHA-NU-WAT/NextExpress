@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 46, "column": 0}, "map": {"version":3,"sources":["file:///app/src/app/api/auth/google/route.ts"],"sourcesContent":["import { NextResponse } from \"next/server\";\n\nexport async function GET() {\n  const redirect_uri = \"https://core.pcshs.online/api/auth/google/callback\";\n  const params = new URLSearchParams({\n    client_id: process.env.GOOGLE_CLIENT_ID!,\n    redirect_uri, // ไม่ต้อง encode ซ้ำ\n    response_type: \"code\",\n    scope: \"openid email profile\",\n    access_type: \"offline\",\n    prompt: \"consent\",\n  });\n\n  return NextResponse.redirect(\n    `https://accounts.google.com/o/oauth2/v2/auth?${params.toString()}`\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;;AAEO,eAAe;IACpB,MAAM,eAAe;IACrB,MAAM,SAAS,IAAI,gBAAgB;QACjC,WAAW,QAAQ,GAAG,CAAC,gBAAgB;QACvC;QACA,eAAe;QACf,OAAO;QACP,aAAa;QACb,QAAQ;IACV;IAEA,OAAO,gJAAY,CAAC,QAAQ,CAC1B,CAAC,6CAA6C,EAAE,OAAO,QAAQ,IAAI;AAEvE","debugId":null}}]
+}

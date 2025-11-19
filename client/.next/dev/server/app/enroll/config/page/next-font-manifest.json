@@ -1,0 +1,12 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/enroll/config/page": [
+      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
+      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
+      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

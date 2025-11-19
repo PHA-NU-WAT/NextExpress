@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///app/src/app/enroll/page.tsx"],"sourcesContent":["export default function Page() {\r\n  return (\r\n    <>\r\n      <div className=\"grid auto-rows-min gap-4 md:grid-cols-3\">\r\n        <div className=\"bg-muted/50 aspect-video rounded-xl p-4\">เนื้อหา1</div>\r\n        <div className=\"bg-muted/50 aspect-video rounded-xl p-4\">เนื้อหา2</div>\r\n        <div className=\"bg-muted/50 aspect-video rounded-xl p-4\">เนื้อหา3</div>\r\n      </div>\r\n      <div className=\"bg-muted/50 min-h-[100vh] flex-1 rounded-xl md:min-h-min p-4\">\r\n        เนื้อหาหลัก\r\n      </div>\r\n    </>\r\n  )\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE;;0BACE,8OAAC;gBAAI,WAAU;;kCACb,8OAAC;wBAAI,WAAU;kCAA0C;;;;;;kCACzD,8OAAC;wBAAI,WAAU;kCAA0C;;;;;;kCACzD,8OAAC;wBAAI,WAAU;kCAA0C;;;;;;;;;;;;0BAE3D,8OAAC;gBAAI,WAAU;0BAA+D;;;;;;;;AAKpF","debugId":null}}]
+}
