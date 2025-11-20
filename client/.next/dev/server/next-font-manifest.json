@@ -5,52 +5,7 @@
       "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
       "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
     ],
-    "[project]/src/app/calendar/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
-    "[project]/src/app/curriculums/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
-    "[project]/src/app/curriculums/subjects/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
-    "[project]/src/app/enroll/config/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
-    "[project]/src/app/enroll/manage/core-subjects/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
     "[project]/src/app/enroll/manage/electives-subjects/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
-    "[project]/src/app/enroll/manage/sections-teachers/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
-    "[project]/src/app/enroll/manage/sections/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
-    "[project]/src/app/enroll/manage/teachers-sections/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
-    "[project]/src/app/enroll/page": [
       "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
       "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
       "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
@@ -61,16 +16,6 @@
       "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
     ],
     "[project]/src/app/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
-    "[project]/src/app/personnel/page": [
-      "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
-      "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
-      "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
-    ],
-    "[project]/src/app/register/page": [
       "static/media/LINESeedSansTH_W_Th-s.p.6e800f0d.woff2",
       "static/media/LINESeedSansTH_W_Rg-s.p.8d8545ae.woff2",
       "static/media/LINESeedSansTH_W_Bd-s.p.6a5830ea.woff2"
